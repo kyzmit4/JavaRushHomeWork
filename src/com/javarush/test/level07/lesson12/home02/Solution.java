@@ -21,6 +21,7 @@ public class Solution
         }
         for (int j = 0; j <m ; j++)
         {
+
             list.add(n,list.get(j));
             n++;
 
